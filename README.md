@@ -1,5 +1,3 @@
-**Description**
-
 A brief overview of your token's purpose, utility, and unique selling points.
 
 **Tokenomics**
